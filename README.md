@@ -1,2 +1,2 @@
 # wHACKiest2021_HackerHolics
-<h2>Venders helped by the NGO Organisation</h2>
+<h2>Venders helped by the NGO</h2>
