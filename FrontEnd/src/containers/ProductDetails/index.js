@@ -106,13 +106,17 @@ class ProductDetails extends Component{
                         </div>
                         <div className="ProductDetails">
                             <div className="BreadCrumb">
-                                <small>Home > Mobiles > Iphone</small>
+                                <small>Home > Groceries</small>
                             </div>
                             <p className="ProductTitle">{product.name}</p>
                             <p className="ProductPrice">${product.price}</p>
                             <div className="ProductDescription">
                                 <h3>Product Description</h3>
                                 <p>{product.description}</p>
+                                <br/>
+                                <hr/>
+                                <br/>
+                                <h3>{product.stock} Items Left</h3>
                             </div>
                         </div>
                     </div>
